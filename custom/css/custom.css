@@ -1,0 +1,73 @@
+.breadcrumb{
+    background-color: #245580!important;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
+.breadcrumb li a{
+color:white !important;
+}
+.panel
+{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.badge-success {
+  background-color: #468847 !important;
+}
+
+.badge-info {
+  background-color: #3a87ad !important;
+}
+
+.badge-error {
+  background-color: #b94a48 !important;
+}
+
+.breadcrumb li {
+color:white !important;
+}
+
+nav.navbar:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button.button1:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+div.card {
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+
+div.cardHeader {
+    color: white;
+    padding: 10px;
+    font-size: 40px;
+}
+
+div.cardContainer {
+    padding: 10px;
+}
+
+ div.card-success{background-color:#5cb85c;border-color:#5cb85c}
+ .card-success .card-footer,.card-success .card-header{background-color:transparent}
+
+
+.div-hide {
+	display: none;
+}
+
+.kv-file-zoom {
+	display: none;
+}
+
+div.kv-avatar div.file-input div.file-preview {
+	width: 200px;
+}
+
+/*login form*/
+.vertical {
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
